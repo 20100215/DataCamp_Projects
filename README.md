@@ -6,42 +6,42 @@ A portfolio of projects completed in the DataCamp platform, demonstrating key ar
 
 ### Data Engineering (Python - Data cleaning and transformation)
 
-7. [Cleaning Bank Marketing Campaign Data](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%207%20-%20Cleaning%20Bank%20Marketing%20Campaign%20Data)
-15. [Preparing Customer Analytics Data for Modeling](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2015%20-%20Preparing%20Customer%20Analytics%20Data%20for%20Modeling)
+7. [Cleaning Bank Marketing Campaign Data](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%207%20-%20Cleaning%20Bank%20Marketing%20Campaign%20Data/notebook.ipynb)
+15. [Preparing Customer Analytics Data for Modeling](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2015%20-%20Preparing%20Customer%20Analytics%20Data%20for%20Modeling/notebook.ipynb)
 
 ### Data Engineering (PySpark)
 
-16. [Cleaning Voltmart Orders Dataset with PySpark](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2016%20-%20Cleaning%20Voltmart%20Orders%20Dataset%20with%20PySpark)
+16. [Cleaning Voltmart Orders Dataset with PySpark](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2016%20-%20Cleaning%20Voltmart%20Orders%20Dataset%20with%20PySpark/notebook.ipynb)
 
 ### Data Analytics (SQL, Snowflake)
 
-9. [Analyzing Students' Mental Health in SQL](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%209%20-%20Analyzing%20Students'%20Mental%20Health)
-12. [Exploring London's Travel Network](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2012%20-%20Exploring%20London's%20Travel%20Network)
-13. [Exploring Motorcycle Part Sales](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2013%20-%20Analyzing%20Motorcycle%20Part%20Sales)
+9. [Analyzing Students' Mental Health in SQL](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%209%20-%20Analyzing%20Students'%20Mental%20Health/notebook.ipynb)
+12. [Exploring London's Travel Network](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2012%20-%20Exploring%20London's%20Travel%20Network/notebook.ipynb)
+13. [Exploring Motorcycle Part Sales](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2013%20-%20Analyzing%20Motorcycle%20Part%20Sales/notebook.ipynb)
 
 ### Data Analytics (Python, Pandas, Matplotlib)
 
-5. [Visualizing History of Nobel Prize Winners](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%205%20-%20Visualizing%20History%20of%20Nobel%20Prize%20Winners)
-6. [Analyzing Crimes in California](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%206%20-%20Analyzing%20Crimes%20in%20California)
-8. [Investigating Netflix Movies](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%208%20-%20Investigating%20Netflix%20Movies)
-10. [Exploring NYC Public School Test Result Scores](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2010%20-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores)
+5. [Visualizing History of Nobel Prize Winners](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%205%20-%20Visualizing%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
+6. [Analyzing Crimes in California](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%206%20-%20Analyzing%20Crimes%20in%20California/notebook.ipynb)
+8. [Investigating Netflix Movies](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%208%20-%20Investigating%20Netflix%20Movies/notebook.ipynb)
+10. [Exploring NYC Public School Test Result Scores](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2010%20-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
 
 ### Hypothesis Testing (Python, pingouin)
 
-14. [Hypothesis Testing with Soccer Matches](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2014%20-%20Hypothesis%20Testing%20with%20Soccer%20Matches)
+14. [Hypothesis Testing with Soccer Matches](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2014%20-%20Hypothesis%20Testing%20with%20Soccer%20Matches/notebook.ipynb)
 
 ### Machine Learning (TPOT, sklearn, MLflow)
 
-1. [Give Life: Predict Blood Donations](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%201%20-%20Give%20Life_Predict%20Blood%20Donations)
-17. [Predicting Mean Temperature in London (Sklearn + MLflow)](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%2017%20-%20Predicting%20Temperature%20in%20London%20(Sklearn%20%2B%20MLflow))
+1. [Give Life: Predict Blood Donations](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%201%20-%20Give%20Life_Predict%20Blood%20Donations/notebook.ipynb)
+17. [Predicting Mean Temperature in London (Sklearn + MLflow)](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2017%20-%20Predicting%20Temperature%20in%20London%20(Sklearn%20%2B%20MLflow)/notebook.ipynb)
 
 ### Natural Language Processing (RegEx, NLTK, LDA)
 
-2. [The Hottest Topics in Machine Learning](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%202%20-%20The%20Hottest%20Topics%20in%20Machine%20Learning)
-3. [Find Movie Similarity by Plot Summaries](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%203%20-%20Find%20Movie%20Similarity%20from%20Plot%20Summaries)
+2. [The Hottest Topics in Machine Learning](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%202%20-%20The%20Hottest%20Topics%20in%20Machine%20Learning/notebook.ipynb)
+3. [Find Movie Similarity by Plot Summaries](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%203%20-%20Find%20Movie%20Similarity%20from%20Plot%20Summaries/notebook.ipynb)
 
 ### Deep Learning (Keras)
 
-4. [ASL Recognition with Deep Learning](https://github.com/20100215/DataCamp_Projects/tree/main/projects/Project%204%20-%20ASL%20Recognition%20with%20Deep%20Learning)
+4. [ASL Recognition with Deep Learning](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%204%20-%20ASL%20Recognition%20with%20Deep%20Learning/notebook.ipynb)
 
 
