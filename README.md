@@ -25,6 +25,7 @@ A portfolio of projects completed in the DataCamp platform, demonstrating key ar
 6. [Analyzing Crimes in California](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%206%20-%20Analyzing%20Crimes%20in%20California/notebook.ipynb)
 8. [Investigating Netflix Movies](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%208%20-%20Investigating%20Netflix%20Movies/notebook.ipynb)
 10. [Exploring NYC Public School Test Result Scores](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2010%20-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
+18. [Analyzing Super Bowl TV Data](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2018%20-%20Analyzing%20Super%20Bowl%20TV%20Data/notebook.ipynb)
 
 ### Hypothesis Testing (Python, pingouin)
 
