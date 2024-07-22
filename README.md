@@ -18,6 +18,7 @@ A portfolio of projects completed in the DataCamp platform, demonstrating key ar
 9. [Analyzing Students' Mental Health in SQL](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%209%20-%20Analyzing%20Students'%20Mental%20Health/notebook.ipynb)
 12. [Exploring London's Travel Network](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2012%20-%20Exploring%20London's%20Travel%20Network/notebook.ipynb)
 13. [Exploring Motorcycle Part Sales](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2013%20-%20Analyzing%20Motorcycle%20Part%20Sales/notebook.ipynb)
+20. [Evaluate a Manufacturing Process](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2020%20-%20Evaluate%20a%20Manufacturing%20process/notebook.ipynb)
 
 ### Data Analytics (Python, Pandas, Matplotlib)
 
