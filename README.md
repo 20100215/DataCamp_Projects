@@ -27,9 +27,10 @@ A portfolio of projects completed in the DataCamp platform, demonstrating key ar
 10. [Exploring NYC Public School Test Result Scores](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2010%20-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
 18. [Analyzing Super Bowl TV Data](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2018%20-%20Analyzing%20Super%20Bowl%20TV%20Data/notebook.ipynb)
 
-### Hypothesis Testing (Python, pingouin)
+### Statistical Analysis / Hypothesis Testing (Python, pingouin)
 
 14. [Hypothesis Testing with Soccer Matches](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2014%20-%20Hypothesis%20Testing%20with%20Soccer%20Matches/notebook.ipynb)
+19. [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2019%20-%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 
 ### Machine Learning (TPOT, sklearn, MLflow)
 
