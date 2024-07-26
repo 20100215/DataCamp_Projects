@@ -27,6 +27,7 @@ A portfolio of projects completed in the DataCamp platform, demonstrating key ar
 8. [Investigating Netflix Movies](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%208%20-%20Investigating%20Netflix%20Movies/notebook.ipynb)
 10. [Exploring NYC Public School Test Result Scores](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2010%20-%20Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/notebook.ipynb)
 18. [Analyzing Super Bowl TV Data](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2018%20-%20Analyzing%20Super%20Bowl%20TV%20Data/notebook.ipynb)
+21. [The Android App Market on Google Play](https://github.com/20100215/DataCamp_Projects/blob/main/projects/Project%2021%20-%20The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
 
 ### Statistical Analysis / Hypothesis Testing (Python, pingouin)
 
